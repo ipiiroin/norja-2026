@@ -24,10 +24,10 @@ Kiertomatka Oulusta Lofootit–Senja-reitillä, paluu Pallaksen tai Kilpisjärve
 |----|-------|--------|----|-----------|
 | 0 | Ma 29.6. ilta | Oulu → Rovaniemi | 200 | Vanhempien luona |
 | 1 | Ti 30.6. | Rovaniemi → Narvik (Kiirunan kautta) | 510 | Basecamp Narvik tai Bogen Hostel |
-| 2 | Ke 1.7. | Narvik → Svolvær (Henningsvær iltapäiväretki) | 200 | Lofoten Feriesenter, Svolvær |
-| 3 | To 2.7. | Svolvær → Reine pysähdyksin | 125 | Eagle Bay Rorbu A, Sørvågen |
-| 4 | Pe 3.7. | Reinebringen + Å | — | Eagle Bay |
-| 5 | La 4.7. | Eagle Bay → Skreda, Leknes (matkalla rannat) | 50 | Skreda Rorbusuiter |
+| 2 | Ke 1.7. | Narvik → Svolvær (Henningsvær iltapäiväretki) | 200 | Lofoten Feriesenter, Svolvær ✅ |
+| 3 | To 2.7. | Svolvær → Reine pysähdyksin | 125 | Eagle Bay Rorbu A, Sørvågen ✅ |
+| 4 | Pe 3.7. | Reinebringen + Å | — | Eagle Bay ✅ |
+| 5 | La 4.7. | Eagle Bay → Stamsund (matkalla rannat) | 70 | Lofoten Camp, Stamsund (vahvistamatta) |
 | 6 | Su 5.7. | Lofootit → Senja (Narvikin kautta) | 520 | Fjordbotn Camping tai Camp Mefjord |
 | 7 | Ma 6.7. | Hesten + Tungeneset | — | sama |
 | 8 | Ti 7.7. | **A:** Senja → Kilpisjärvi + Treriksröset **/ B:** Senja → Pallas | 290 / 440 | Tsahkaljärvi tai Pallas (kelin/halun mukaan) |
@@ -82,7 +82,7 @@ Ensimmäinen päivä Lofooteilla. E10 kulkee siltojen ja vuonojen läpi.
 - Paluu Svolværiin yöksi
 
 **Majoitus (1 yö 1.–2.7.):**
-**Lofoten Feriesenter**, Leirskoleveien, Svolvær — mökkimajoitus järven rannalla, n. 3 km Svolværin keskustasta. Käytännöllinen valinta perheelle (4 hengelle, kohtuullinen hinta), arviot mökeistä hyviä. Käytännön "perustyön" majoitus pv 2:lle ennen Reinen rorbu-elämystä.
+**Lofoten Feriesenter**, Leirskoleveien, Svolvær — mökkimajoitus järven rannalla, n. 3 km Svolværin keskustasta. Käytännöllinen valinta perheelle (4 hengelle, kohtuullinen hinta), arviot mökeistä hyviä. Käytännön "perustyön" majoitus pv 2:lle ennen Reinen rorbu-elämystä. ✅ **VARATTU**
 
 > **Vaihtoehtoja jos Lofoten Feriesenter ei sovi:**
 > - Lofoten Rorbuer AS, Svolvær (4,5/5)
@@ -103,7 +103,7 @@ Rauhallinen siirtopäivä Lofoottien sydämeen, runsaasti pysähdyksiä matkalla
 - **Reine** — määränpää
 
 **Majoitus (2 yötä 2.–4.7.):**
-**Eagle Bay Waterfront Rorbu A**, Besselvågveien 37A, Sørvågen — vesirajassa, arvio 9,9/10. Sørvågen on n. 4 km Reinestä etelään, lähellä Reinebringen-trailheadia ja Å:ta.
+**Eagle Bay Waterfront Rorbu A**, Besselvågveien 37A, Sørvågen — vesirajassa, arvio 9,9/10. Sørvågen on n. 4 km Reinestä etelään, lähellä Reinebringen-trailheadia ja Å:ta. ✅ **VARATTU**
 
 > Varmista booking.comin varauksessa että rorbu majoittaa 4 henkeä.
 
@@ -137,7 +137,7 @@ Aamulla rauhallinen aamiainen Eagle Bay'ssä. Pakkaaminen ja siirto pohjoisemmak
 - **Leknes** — lounas ja latauspysähdys
 - **Uttakleiv ja Haukland** — kaksi Lofoottien parasta hiekkarantaa, kävelypolku niiden välillä vuoren yli (Mannen-vuori). Iltapäivän valossa rannan kalliot ja meri ovat parhaimmillaan.
 
-**Majoitus (1 yö 4.–5.7.):** Skreda Rorbusuiter, Leknes
+**Majoitus (1 yö 4.–5.7.):** ~~Skreda Rorbusuiter, Leknes~~ (ei vapaana) — **Lofoten Camp, Stamsund** (mahdollinen vaihtoehto, ~20 km Leknesistä itään)
 
 ---
 
@@ -239,9 +239,9 @@ Tarkista ajantasainen tilanne: [visitlofoten.com](https://www.visitlofoten.com)
 ## Varausten kiireellisyys
 
 ### Tee heti
-1. **Eagle Bay Rorbu A** — 2.–4.7. (2 yötä) — booking.com
-2. **Lofoten Feriesenter, Svolvær** — 1.–2.7. (1 yö) — booking.com (varauslinkki olemassa)
-3. **Skreda Rorbusuiter, Leknes** — 4.–5.7. (1 yö)
+1. **Eagle Bay Rorbu A** — 2.–4.7. (2 yötä) ✅ VARATTU
+2. **Lofoten Feriesenter, Svolvær** — 1.–2.7. (1 yö) ✅ VARATTU
+3. ~~**Skreda Rorbusuiter, Leknes**~~ — ei vapaana → **Lofoten Camp, Stamsund** — 4.–5.7. (tarkista saatavuus)
 
 ### Tee seuraavan kuukauden aikana
 4. **Fjordbotn Camping tai Camp Mefjord, Senja** — 5.–7.7. (2 yötä)
@@ -273,9 +273,9 @@ Lofooteilla yhteensä **4 yötä**, kolmessa eri majoituksessa:
 
 | Yöt | Paikka | Sijainti | Tunnelma |
 |-----|--------|----------|----------|
-| 1 | Lofoten Feriesenter, Svolvær | Itäpää | Käytännöllinen mökki järven rannalla, edullinen |
-| 2 | Eagle Bay, Sørvågen | Länsipää | Rauhallinen rorbu vesirajassa, ikoniset Reine-maisemat |
-| 1 | Skreda, Leknes | Keskialue | Käytännöllinen sijainti rannoille |
+| 1 | Lofoten Feriesenter, Svolvær ✅ | Itäpää | Käytännöllinen mökki järven rannalla, edullinen |
+| 2 | Eagle Bay, Sørvågen ✅ | Länsipää | Rauhallinen rorbu vesirajassa, ikoniset Reine-maisemat |
+| 1 | ~~Skreda, Leknes~~ → Lofoten Camp, Stamsund | Keskialue | Ei vapaana → vaihtoehto Stamsundissa (vahvistamatta) |
 
 Kolme erilaista majoituskokemusta tasoittavat kustannuksia. Eagle Bay'n kalliimpaa hintaa kompensoi se että muut kaksi paikkaa ovat edullisempia.
 
